@@ -6,10 +6,6 @@
 />
 </a>
 
-- **정보처리기사** <i>2024.09.10</i>
-- **SQLD** <i>2024.09.20</i>
-- **TOEIC 905** 
-
 <hr>
 
 ## Programming Languages
