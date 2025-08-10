@@ -15,6 +15,8 @@
 **Fastcampus Kernel360** Backend Advanced Course (2025.02-2025.04)
 <br>
 **Microsoft** AI Course (2025.05-2025.08)
+<br>
+**SK** SK Devocean Marketing Ontology Study (2025.07-2025.11)
 
 <hr>
 
